@@ -1,0 +1,35 @@
+@import url(./css/footer.css);
+@import url(./css/header.css);
+@import url(./css/principal.css);
+
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-size: 62.5%; 
+list-style: none;
+} 
+
+
+
+@font-face {
+    font-family: "Spotify";
+    src: url(./Spotify.ttf);
+}
+
+body{ 
+    text-decoration: none;
+    font-family: "Spotify";
+    height: 150vh;
+    background-image: linear-gradient(to bottom, #5F3149 25% , #160B11 70%);
+    color: white; 
+} 
+
+
+
+gradiente da página{
+    color: #5F3149;
+    color: #160B11;
+}
